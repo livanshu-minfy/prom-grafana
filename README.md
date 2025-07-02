@@ -1,5 +1,9 @@
 # prom-grafana
 
+![Screenshot 2025-07-02 141658](https://github.com/user-attachments/assets/eb64957b-3f8b-440f-974c-40a4ec6cb2c0)
+
+![Screenshot 2025-07-02 141955](https://github.com/user-attachments/assets/caef1ba4-496d-4a93-b542-3e4ff4379f20)
+
 ![image](https://github.com/user-attachments/assets/3912114d-b7aa-4be5-a37e-633a619adb93)
 
 ![image](https://github.com/user-attachments/assets/61168726-9a31-40d2-868d-f940f23caa57)
